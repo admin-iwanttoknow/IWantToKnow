@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:62563",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Projects\\IWantToKnow\\IWantToKnow.Server\\..\\iwanttoknow.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

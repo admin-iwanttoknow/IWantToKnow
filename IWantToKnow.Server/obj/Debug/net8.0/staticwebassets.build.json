@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "hYY8zrAZX9MAtUi62OPiuVPg+cQ4443fz713MM9+zEI=",
+  "Source": "IWantToKnow.Server",
+  "BasePath": "_content/IWantToKnow.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\IWantToKnow\\iwanttoknow.client\\iwanttoknow.client.esproj",
+      "Version": 2,
+      "Source": "iwanttoknow.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

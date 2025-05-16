@@ -1,1 +1,0 @@
-C:\Projects\IWantKnowNet\iwantknownet.client\obj\Debug\iwantknownet.client.esproj.CoreCompileInputs.cache
